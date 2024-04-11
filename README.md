@@ -8,10 +8,10 @@ I'm a software developer. Welcome to my GitHub profile!
 
 💡 **Interested in:** Web development.
 
-📫 **How to reach me:** You can reach me via email at randhirrdes@gmail.com or connect with me on [LinkedIn]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/randhir-desai-991567242/)).
+📫 **How to reach me:** You can reach me via email at randhirrdes@gmail.com or connect with me on [LinkedIn](https://www.linkedin.com/in/randhir-desai-991567242/).
 
 🔗 **Connect with me:**
-- [LinkedIn]([https://www.linkedin.com/in/johndoe](https://www.linkedin.com/in/randhir-desai-991567242/))
+- [LinkedIn](https://www.linkedin.com/in/randhir-desai-991567242/)
 
 
 🚀 **Projects:**
